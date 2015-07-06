@@ -1,0 +1,277 @@
+CHI 2015 Papers and Notes
+
+Reviews of submission #1951: "ePort3DAr: Combining 3D Interactive Smart
+Spaces and Mobile Computing for Construction Collaboration"
+
+------------------------ Submission 1951, Review 4 ------------------------
+
+Reviewer:           primary
+
+Your Assessment of this Paper's Contribution to HCI
+
+
+Overall Rating
+
+   2.0 - Possibly Reject: The submission is weak and probably shouldn't be accepted, but there is some chance it should get in. 
+
+Expertise
+
+   4  (Expert )
+
+The Review
+
+
+The Meta-Review
+
+   Reviewers liked the concept and the vision of this work, and R3
+   appreciated the unique configurations, even if the authors are using
+   known technology. 
+
+   R2 and R3 point out that there is little novelty for the specific system
+   or the proposed interaction techniques. 
+   Authors also do not provide a clear motivation for their design decisions
+   and R3, in particular, points to numerous related projects, directions
+   and alternative configurations that are not discussed nor referenced. The
+   authors would benefit from placing their interaction techniques and
+   configurations in the context of a larger design space and in relation to
+   previous work. Reviewers, for example, ask whether _actual_ AR could be a
+   strong candidate for these scenarios. 
+
+   Reviewers find that the user study description is unclear and that more
+   information is needed on the baseline "blueprint" interface. Even so,
+   reviewers point out that there are many different approaches that would
+   be more appropriate to compare against, rather than a "book"?. 
+
+   Reviewers also found the paper difficult to read and suggest careful
+   proof reading by a native English speaker. 
+
+   All in all, the scenarios explored are interesting, but given the lack of
+   generalizable results (R1), and the unclear motivation for many of the
+   design choices, this paper is unfortunately not mature for publication at
+   CHI. 
+
+
+------------------------ Submission 1951, Review 1 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   The authors present a system that allows viewing building plans in
+   multiple views and with multiple ways of interaction. Changes to the
+   schematics are synced between users, e.g., allowing workers on site to
+   propose an update to the shared construction plans which is accepted at
+   an off-site office.
+
+Overall Rating
+
+   2.0 - Possibly Reject: The submission is weak and probably shouldn't be accepted, but there is some chance it should get in. 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+   This paper essentially describes one specific system. Accordingly, much
+   of the writing focuses on components, interactions, and scenario
+   description. While the system is interesting, I was ultimately left
+   wondering what the more general takeaway here is. It's not clear what
+   others can learn from this specific case to inform their own system
+   designs. While there is a study, I was left with many questions regarding
+   it and at this point don't see some more general emergent effect. 
+
+   I found this paper rather hard to read. The system description meanders
+   and often repeats itself. The design choices sometimes feel arbitrary and
+   the whole thing feels a bit thrown together. I was a bit put off by the
+   terms used to describe this this system. The authors make multiple
+   mentions of this being an AR system. However, there really is no AR part
+   in this. There is a projection of 3D content on the wall. But this does
+   in no way constitute augmented reality. The phone application also does
+   not seem to have this functionality. I also don't get how this system is
+   an "interactive 3D smart space". What's a "smart space" after all
+   exactly? The system uses space for projection and tracks hands in the
+   space. In my understanding, this doesn't yet make the space itself smart.
+   The mobile setup in a way is space agnostic after all. Unfortunately, the
+   paper, at times, reads a bit like a buzzword hodgepodge. 
+
+   The authors did run a study to find out whether their system offers a
+   more efficient way to complete common construction tasks. It is not clear
+   what they compare themselves against though. The other condition is
+   described as a "conventional 2D drawing based approach". I'm just not
+   sure what this is exactly. It should be made very clear what the
+   comparison is and how participants interacted in this case. It is also
+   not described whether the study was between or within groups and whether
+   there was any counterbalancing. From the "Test Plan" section it seems
+   like participants always used one system first and then the other. It
+   also reads as if participants received extensive instructions on the
+   proposed system but no instructions on the comparison system before the
+   start of the study. While we can assume that the participants as
+   architecture students have some familiarity with blueprints, they
+   probably don't have much hands-on experience of using them in-the-field
+   (they're still students after all). I'm also curious how the tasks were
+   timed. Some of them don't quite have a specific ending time. For example,
+   the exploration task seems rather open ended and the discussion task
+   times similarly depend highly on other factors. 
+
+   I have some slight problems with the problem description of the paper.
+   The authors state that architects "are using new computing technology to
+   enhance creativity and aid in communication between stakeholders", yet
+   construction engineers and people on site "might not be familiar with new
+   technology". This and the following parts read very condescending to me.
+   I don't subscribe to this view where engineers are inherently more
+   backwards and unfriendly to technological progress than architects. As
+   the study seems to have been run at an architecture school, this might
+   explain the view described here. If there is an inherent difference in
+   those two groups it would be helpful to provide a reference, otherwise
+   this just comes of as prejudice. One could even argue that this system
+   doesn't really strive for collaboration, but instead is designed for
+   people in the field to provide data back to the architect who then can
+   approve of this input. Regarding the input, I'm not sure dragging parts
+   on a phone is a good way to handle changes. For blueprints to be updated
+   with changes, wouldn't precise measurements be needed? If, e.g.,
+   something went wrong with placing the door, I'm sure stakeholders would
+   want more accurate information than a worker dragging it a bit to the
+   side.
+
+   Overall, I think this is an interesting system and certainly looking at
+   blueprints can be more efficient in a projection than with blueprints
+   (especially on larger sites). However, I don't quite see what general
+   lesson is to be learnt here. But if this is just a description of one
+   specific system, the value to others isn't as obvious. 
+
+
+------------------------ Submission 1951, Review 2 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This paper presents the design, implementation, and evaluation of a
+   prototype of a collaboration system, supporting hand-guestures, mobile
+   phones, and projectors. 
+
+   I feel that the prototype itself is not so exciting. It merely combines
+   several well-known techniques. The interesting part of this paper could
+   have been the experiment, but there are also problems. 
+
+Overall Rating
+
+   2.0 - Possibly Reject: The submission is weak and probably shouldn't be accepted, but there is some chance it should get in. 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+   The paper spends 5.5 pages to motivate and describe the prototype and 2.5
+   pages on the experiment. I think that most features of the prototype have
+   already been published previsouly. So, basically, the focus should have
+   been on the user study instead. 
+
+   The user study is pretty basic. 5 tasks were done in succession (the
+   order of tasks should have been randomized!). The elementary tasks such
+   as viewing a 3D model (task 1) have been investigated in many experiments
+   in the IEEE VR and IEEE 3DUI community (many citations to these
+   communities are missing). The user study could have been more interesting
+   if: 
+   - Real workers were used (as Figure 1 seems to suggest) 
+   - More complex and application-domain-specific tasks had been executed 
+
+   In my view, the submission is overly verbose. Due to the small novelty, 5
+   pages should have been enough. 
+
+
+------------------------ Submission 1951, Review 3 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This paper contributes a system using multiple display and input devices
+   to aid in collaborative construction management. The system uses a
+   projector to create two ad-hoc displays in an ‘L’ configuration,
+   along with a Leap Motion controller for spatial input, an Anoto
+   (micro-dot pattern) pen for stylus input, and a smart phone for
+   additional display and touch/accelerometer input. While each individual
+   component and the core interactions in general are not significantly
+   novel, the paper combines multiple devices into a unique combination of
+   display / input modalities. Furthermore, the paper explores a domain
+   specific application of construction management. Finally, the paper
+   contributes a user study comparing their system to 2D blueprints (This
+   wasn’t entirely clear to me. The paper states they compare to a ‘book
+   of 2D blueprints approach’). Overall, it is an interesting system
+   targeted to a domain that could benefit from on-site digital construction
+   management solutions.
+
+Overall Rating
+
+   2.0 - Possibly Reject: The submission is weak and probably shouldn't be accepted, but there is some chance it should get in. 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+   This work was an interesting read. The system combines known display and
+   interaction techniques into a unique configuration and targets an
+   interesting application domain. I see great value in such ad-hoc
+   multimodal interactive systems. In fact a lot of the marketing effort for
+   pico projectors featured architects / construction workers looking at
+   blueprints at construction sites. There is obvious demand for intuitive
+   ad-hoc interactive systems in this domain.
+
+   While I see great value in the goal and the multimodal approach, I have
+   some concerns that reduced my review score. Primarily, the multimodal
+   system is interesting, but it not clear that it is the best solution for
+   this domain. Why not just use a single projected display running a CAD
+   program? Or why not use a mobile phone/tablet app? Or why not use
+   augmented reality to preview the model deviations and changes?
+
+   It seems that the user study compares the system to a ‘book of 2D
+   blueprints’. It seems like a better comparison would be to a single
+   laptop running CAD / SketchUp (or mentioned above...a single projected
+   display running CAD/SketchUp). In the user study, I would imagine that
+   the performance improvements of the system are probably largely due to
+   the fact that the user is interacting with a digital interactive system
+   (vs analog paper), and not because of the unique device configuration.
+   Therefore, it is hard to extract any lessons learned or take-aways from
+   the user study.
+
+   The individual interaction techniques do not appear to be novel. There is
+   a large body of research in spatial input for rotating / scaling 3d
+   objects and for multi-scale navigation (pan+zoom). The most interesting
+   and novel interactions involve querying the specific floor plan via
+   spatial input and the touch interactions on the horizontal surface which
+   control the vertical display. These interactions are particularly
+   relevant given the new Sprout display by HP (http://sprout.hp.com/) which
+   combines stylus input on a horizontal projected display with a
+   traditional vertical monitor.
+
+   As a personal opinion, it would be interesting to see the system
+   implemented with a brighter short throw projector, e.g. InFocus IN126ST.
+   What would these scenarios look like with a much larger (10 ft+) display
+   for group collaboration / review? The current configuration could be
+   easily approximated by two tablets.
+
+   The paper should also address other work in AR for construction
+   management (e.g. the work by Mani Golparvar's lab,
+   http://scholar.google.com/scholar?hl=en&q=Mani+Golparvar).
+
+   Finally, the paper suffers from some stylistic and language issues, which
+   ultimately make the paper difficult to understand. In my opinion, the
+   paper could be condescend by omitting some of the system implementation
+   and focusing on the interaction techniques. Figure 2 is barely referenced
+   and provides little value for its size, along with figures 3a, & 4. Also,
+   the questions from the user study are included by reference only, which
+   is inconvenient for understanding the user study.
+
+   Overall, I think this is interesting work that is not yet ready for
+   publication at CHI. I look forward to seeing this work published in the
+   future as it is pursuing very interesting ideas with a unique device
+   configuration.
+
+
+

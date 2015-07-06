@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eq",
+				"eq:similarity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sigchi-sample.tex",
+			"settings":
+			{
+				"buffer_size": 6273,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Desktop_20140516/review-142.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "5-Experiments/5-Experiments.tex",
+			"settings":
+			{
+				"buffer_size": 18346,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"ssla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ss:lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ss late",
+				"Set Syntax: LaTeX"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 60.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Desktop_20140516/review-279.txt",
+		"/E/Desktop_20140516/review-3649.txt",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/1-Introduction/1-Introduction_Eng.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/3-System/3-System.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/4-Interaction_Design/4-Interaction_Design.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/2-Related_Work/2-Related_Work_Eng.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/5-Experiments/5-Experiments.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/sigchi-sample.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/0-Abstract/0-Abstract.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/0-Abstract/0-Abstract_Eng.aux",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/0-Abstract/0-Abstract_Eng.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/7-Conclusion/7-Conclusion.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/2-Related_Work/2-Related_Work.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/sigchi-sample.bbl",
+		"/d/usr/texlive/2013/texmf-dist/tex/latex/fontspec/fontspec.sty",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/1-Introduction/1-Introduction.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/1-Introduction/1-Introduction_Kor.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/sample.bib",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/sigchi-sample.aux",
+		"/D/Google 드라이브/[과제]/[KIST]/paper/2_relworks/relworks.tex",
+		"/D/Google 드라이브/[논문]/CHI2015 Smart Architecture Interface/SIGCHI2015/sigchi-for-windows.sublime-workspace",
+		"/D/Google 드라이브/Smart Architecture Interface/SIGCHI2015/sigchi-sample.tex",
+		"/D/Google 드라이브/Smart Architecture Interface/SIGCHI2015/1-Introduction/1-Introduction_Eng.tex",
+		"/C/Users/Jonghoon Seo/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/README.markdown",
+		"/E/Papers/[박사 졸업 논문]/[2. UIST2014]/논문/enhanced-port3dar-combining/enhanced-port3dar-combining/main.tex",
+		"/D/Google 드라이브/[KIST]/paper/A_Novel_Filtering_Approach_for_Robust_and_Fast_Keypoint_Matching_in_Mobile_Environment.tex",
+		"/X/OpenCV/v2.4.7/sources/samples/gpu/hog.cpp",
+		"/D/Google 드라이브/test/test.tex",
+		"/G/Dropbox/KIST/good feature paper/v0116/1_intro/intro.tex",
+		"/C/Users/Jonghoon Seo/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/E/Papers/[박사 졸업 논문]/[2. UIST2014]/논문/enhanced-port3dar-combining/enhanced-port3dar-combining/3-System/3-System_Eng.tex",
+		"/D/dissertation/4_NUI/3_proposed_eng.tex",
+		"/D/dissertation/4_NUI/2_relwork_eng.tex",
+		"/D/dissertation/1_Introduction/intro_eng.tex",
+		"/D/dissertation/6_Conclusion/conclusion.tex",
+		"/D/dissertation/4_Marker-based-AR/4_experiments_eng.tex",
+		"/D/dissertation/4_MarkerlessAR/-markerless.tex",
+		"/D/dissertation/4_MarkerlessAR/2_relwork_eng.tex",
+		"/D/dissertation/3_Platform/design.tex",
+		"/D/dissertation/2_Interaction-Platform/inter-platform_eng.tex",
+		"/D/dissertation/4_Marker-based-AR/3_colorcodeAR.tex",
+		"/D/dissertation/4_NUI/4_experiments.tex",
+		"/D/dissertation/4_NUI/1_intro_eng.tex",
+		"/D/dissertation/4_MarkerlessAR/4_experiments_eng.tex",
+		"/D/dissertation/OpenNUI_Platform__Design_of_Smart_Space_Interaction_Platform.tex",
+		"/D/dissertation/2_Smart-Space/smartspace_eng.tex",
+		"/D/dissertation/4_MarkerlessAR/1_intro_eng.tex",
+		"/D/dissertation/3_Platform/-platform.tex",
+		"/D/dissertation/3_Platform/taxonomy.tex",
+		"/D/dissertation/3_Platform/sensors.tex",
+		"/D/dissertation/abstract.tex",
+		"/D/dissertation/4_MarkerlessAR/3_msl_nft_eng.tex",
+		"/D/dissertation/3_Platform/features.tex",
+		"/D/dissertation/instructions.tex",
+		"/D/dissertation/TeX reports the error was in file",
+		"/D/dissertation/4_Technology/-tech_eng.tex",
+		"/D/dissertation/4_Marker-based-AR/2_relwork_eng.tex",
+		"/D/dissertation/2_Interaction-Platform/inter-platform.tex",
+		"/D/dissertation/2_Background/background.tex",
+		"/D/dissertation/4_Marker-based-AR/4_experiments.tex",
+		"/D/dissertation/4_NUI/1_intro_kor.tex",
+		"/D/dissertation/4_Marker-based-AR/5_conclusion.tex",
+		"/D/dissertation/4_Marker-based-AR/-marker.tex",
+		"/D/dissertation/4_NUI/1_intro.tex",
+		"/D/dissertation/1_Introduction/intro_kor.tex",
+		"/D/dissertation/2_Smart-Space/smartspace.tex",
+		"/D/dissertation/4_NUI/-nui.tex",
+		"/D/dissertation/4_NUI/5_summary.tex",
+		"/D/dissertation/4_MarkerlessAR/1_intro.tex",
+		"/D/dissertation/4_MarkerlessAR/3_msl_nft.tex",
+		"/D/dissertation/4_MarkerlessAR/4_experiments.tex",
+		"/D/dissertation/4_MarkerlessAR/5_conclusion.tex",
+		"/D/dissertation/4_MarkerlessAR/2_relwork.tex",
+		"/D/dissertation/thesis.sty",
+		"/D/dissertation/OpenNUI_Platform__Design_of_Smart_Space_Interaction_Platform.bbl",
+		"/D/dissertation/abstract_kor.tex",
+		"/D/dissertation/4_Marker-based-AR/1_introduction_eng.tex",
+		"/D/dissertation/5_Application/4-Interaction_Design.tex",
+		"/D/dissertation/3_Platform/sensors_kor.tex",
+		"/D/dissertation/4_Marker-based-AR/6_summary.tex",
+		"/D/dissertation/1_Introduction/intro.tex",
+		"/D/dissertation/5_Application/7-Conclusion.tex",
+		"/D/dissertation/5_Application/5-Experiments.tex",
+		"/D/dissertation/4_Marker-based-AR/1_introduction.tex",
+		"/D/dissertation/4_NUI/3_proposed.tex",
+		"/D/dissertation/4_Marker-based-AR/2_relwork.tex",
+		"/D/dissertation/4_NUI/2_relwork.tex",
+		"/D/dissertation/4_Technology/-tech_kor.tex",
+		"/D/dissertation/4_Technology/-tech.tex",
+		"/D/dissertation/abstract.aux",
+		"/D/dissertation/5_Application/-application.aux",
+		"/D/dissertation/5_Application/introduction.tex",
+		"/D/dissertation/5_Application/3-System.tex",
+		"/D/dissertation/Dissertation.bib",
+		"/D/dissertation/OpenNUI_Platform__Design_of_Smart_Space_Interaction_Platform.out",
+		"/E/Programming/openFrameworks-v0.8/apps/addonTests/ofxArucoTest/bin/data/boardConfiguration.yml",
+		"/D/dissertation/OpenNUI_Platform__Design_of_Smart_Space_Interaction_Platform.log",
+		"/D/dissertation/bib.tex",
+		"/C/Users/Jonghoon Seo/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/D/dissertation/3_Platform/platform.aux",
+		"/D/dissertation/3_Platform/platform.tex",
+		"/D/dissertation/missfont.log",
+		"/C/Users/Jonghoon Seo/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_839",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_839",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_735",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_735",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_509",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_509",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_325",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_325",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_951",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_830",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_830",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_951",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_937",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_937",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_992",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_992",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/impostor/3_882",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/score.settings",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/genuine/2_882",
+		"/E/Programming/openFrameworks/apps/[KIST]/Feature-Data-Displayer/bin/data/[g_impostor]Score.txt",
+		"/E/Programming/openFrameworks/apps/NUI_Platform/JSeo_ColorCodeAR/src/ColorCodeDecoder/colorcode.h",
+		"/E/Programming/openFrameworks/apps/NUI_Platform/JSeo_ColorCodeAR/src/ColorCodeDecoder/czdecoder.c",
+		"/E/Programming/openFrameworks/apps/NUI_Platform/JSeo_ColorCodeAR/src/ColorCodeDecoder/czdecoder.h",
+		"/E/Programming/openFrameworks/apps/NUI_Platform/JSeo_ColorCodeAR/src/ColorCodeDecoder/decoder.c",
+		"/E/Programming/openFrameworks/apps/NUI_Platform/JSeo_ColorCodeAR/src/ColorCodeDecoder/decoder.h"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"D:\\dissertation"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"’",
+			"screen",
+			"display",
+			"smart-",
+			"five",
+			"b",
+			"[",
+			"tab:pueu",
+			"modified",
+			"subfigure",
+			"논문",
+			"학위",
+			"4_MarkerlessAR",
+			"video",
+			"thelastfront",
+			"markerless_precision",
+			"setcounter",
+			"todo",
+			"Hye-Ran",
+			"의 키포인트 집합(",
+			"learn",
+			"learning",
+			"learn",
+			"real",
+			"학습",
+			"14",
+			"2.3",
+			"subsubsec:usability test",
+			"iso",
+			"obj",
+			"comparison1",
+			"%%%TODO:",
+			"^(%{3})\\p{L}(%{3})$",
+			"%{3}\\p{L}%{3}$",
+			"%%%a%%%",
+			"%{3}\\p{L}%{3}$",
+			"%%%a%%%",
+			"%{3}\\p{L}%{3}$",
+			"%{3}\\p{L}%%%",
+			"%%%\\p{L}+%%%",
+			"%%%[\\p{L}\\p{L}]*%%%",
+			"%%%[\\p{L}]*%%%",
+			"%%%\\p{L}+%%%",
+			"%%%{1-9}*%%%",
+			"</prefix>",
+			"<prefix>",
+			"page",
+			"Hand Gesture Recognition Using 3D Depth Data",
+			"“Scale Invariant and ",
+			"suarez_hand_2012",
+			"suarez"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			"2_relworks",
+			"image",
+			"train",
+			"vector",
+			"2.2",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sigchi-sample.tex",
+					"settings":
+					{
+						"buffer_size": 6273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2124,
+								2124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Desktop_20140516/review-142.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "5-Experiments/5-Experiments.tex",
+					"settings":
+					{
+						"buffer_size": 18346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15288,
+								15288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3950.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 243.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Google 드라이브/[KIST]/paper/sublime_project_windows.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true
+}
