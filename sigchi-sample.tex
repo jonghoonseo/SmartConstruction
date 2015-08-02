@@ -33,11 +33,11 @@
 
 \usepackage{multirow}
 
-%%% 한글 사용 
-\usepackage{kotex}
-% \usepackage[unicode]{hyperref}
+  %%% 한글 사용 
+  \usepackage{kotex}
+  % \usepackage[unicode]{hyperref}
 
-\usepackage{dhucs-cmap}  % 한글 깨짐 방지
+  \usepackage{dhucs-cmap}  % 한글 깨짐 방지
 
 \usepackage{comment}  % figure*를 하단에 위치 시키기
 
@@ -153,7 +153,6 @@ breaklinks=true,
 %This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government(MEST) (No.2012R1A2A2A01014499)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
 % Balancing columns in a ref list is a bit of a pain because you
 % either use a hack like flushend or balance, or manually insert
 % a column break.  http://www.tex.ac.uk/cgi-bin/texfaq2html?label=balance
@@ -176,5 +175,6 @@ breaklinks=true,
 \balance
 
 \bibliographystyle{acm-sigchi}
-\bibliography{sample}
+\bibliography{sample,Remote}
+% \bibliography{}
 \end{document}
