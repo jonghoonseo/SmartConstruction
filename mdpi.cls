@@ -1728,19 +1728,19 @@ pdfkeywords={\@keyword}
 \ifthenelse{\equal{\@arttype}{Supfile}}%
 {%
   \AtBeginDocument{%
-    \maketitle%
+    %\maketitle%
     \thispagestyle{empty}%
-    \let\maketitle\relax%
+    %\let\maketitle\relax%
     \ifthenelse{\equal{\@status}{submit}}{\linenumbers}{}%
   }%
 }%
 {%
   \AtBeginDocument{%
-    \maketitle
+    %\maketitle
     \thispagestyle{empty}
-    \let\maketitle\relax
+    %\let\maketitle\relax
     \ifthenelse{\equal{\@status}{submit}}{\linenumbers}{}
-    \abstractkeywords
+    %\abstractkeywords
   }%
 }%
 
