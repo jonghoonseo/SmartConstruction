@@ -28,7 +28,7 @@
     \label{fig:overview}
 \end{figure}
 
-제안하는 시스템의 구조는 그림 \ref{fig:overview} 과 같다. 컬러 영상을 이용하여 도면에 위치한 마커를 인식하여 전체 프로젝션 위치를 추정한다. Horizontal display에서는 도면위에 2D 정보를 프로젝션 하며, Vertical display는 도면에 맞는 3D 모델을 출력한다. 두 개의 Display는 서로 동기화 되며 동작하며, 사용자는 직관적인 제스처 및 터치 상호작용을 통해 컨텐츠 제어가 가능하다.  
+제안하는 시스템의 구조는 그림 \ref{fig:overview} 과 같다. RGB카메라를 통해 들어온 영상을 이용하여 도면에 위치한 마커를 인식함으로써 정보를 프로젝션하는 공간을 추정한다. Horizontal display에서는 도면위에 2D 정보를 프로젝션 하며, Vertical display는 도면에 맞는 3D 모델을 출력한다. 두 개의 Display는 서로 동기화 되어 동작하며, 사용자는 직관적인 제스처 및 터치 상호작용을 통해 컨텐츠 제어가 가능하다.  
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{System Implementation}
@@ -42,7 +42,15 @@
 3D Interactive Surface의 구성을 위해 그림 \ref{fig:hardware}과 같이 Projection 기반의 하드웨어를 구성하였다. 본 연구에서 사용된 카메라는 Asus Xtion PRO, 프로젝터는 Wine PICO-C3를 사용하였으나, 다른 기종의 하드웨어를 사용하여도 무방하다. 카메라는 Horizontal Display 의 마커를 인식하고 사용자의 제스처와 터치를 인식하는데 사용되며, 프로젝터를 이용하여 영상을 출력한다. 인식하는데 카메라와 프로젝터는 캘리브레이션을 위해 서로 고정된 형태로 구성되어 있다. 이를 이용하여 마커를 인식하고, L-shape 벽면에 프로젝션 함으로써, 한 대의 프로젝터를 이용하여 Vertical/Horizontal Display 출력 및 제어가 가능하다.
 
 \subsubsection{Portable Multiscreen System}
-본 논문에서는 2차원 데이터와 3차원 모델을 동시에 제공하기 위하여 Multiscreen interactive screen 기술을 이용하였다. 기존의 multiscreen interactive screen 기술들은 사전에 두 interactive surface 의 위치관계를 calibration하여 제공하기 때문에 Stationary한 한계가 있다. 하지만 본 논문에서는 건축 현장에서의 활용을 위하여 Image Marker를 이용하여 portable한 환경에서 실시간 calibration 기술을 개발하였다. Calibration 과정은 카메라-프로젝션 간의 영상 캘리브레이션, 프로젝션과 각 Display간의 위치 캘리브레이션으로 나눌 수 있다. 
+본 논문에서는 2차원 데이터와 3차원 모델을 동시에 제공하기 위하여 Multiscreen interactive screen 기술을 이용하였다. 기존의 multiscreen interactive screen 기술들은 사전에 두 interactive surface 의 위치관계를 calibration하여 제공하기 때문에 Stationary한 한계가 있다. 하지만 본 논문에서는 건축 현장에서의 활용을 위하여 Image Marker를 이용하여 portable한 환경에서 실시간 calibration 기술을 개발하였다. Calibration 과정은 그림 \ref{fig:flowchart_calibration}와 같이 카메라-프로젝션 간의 영상 캘리브레이션, 프로젝션과 각 Display간의 위치 캘리브레이션으로 나눌 수 있다. 
+
+\begin{figure}[ht!]
+	\centering
+    \includegraphics[width=1.0\textwidth]{3-System/flowchart_calibration}
+	\caption{Calibration Flow Chart}
+    \label{fig:flowchart_calibration}
+\end{figure}
+
 먼저, 카메라와 프로젝터는 위치가 고정되어 사용되기 때문에 사전에 calibration을 수행할 수 있다. 이 단계에서는 그림 \ref{fig:procam_calibration}과 같은 calibration board를 활용하여 수행되었다.
 \begin{figure}[ht!]
 	\centering
@@ -72,7 +80,7 @@
     \label{fig:multiscreen_calibration}
 \end{figure*}
 
-\textcolor{red}{Horizontal-Vertical Screen Calibration 관련 수식 추가}
+% \textcolor{red}{Horizontal-Vertical Screen Calibration 관련 수식 추가}
 
 위에서 설명한 캘리브레이션을 수행하게 되면 프로젝션을 위한 Vertical/Horizontal Display에 대한 위치가 결정 된다. 이러한 시스템을 이용하여 실시간 위치 추정이 가능하며, Portable 환경에서 한 대의 프로젝터를 이용하여 Multi-view를 생성하는 것을 가능하게 한다. 그림 \ref{fig:marker_calibration}은 실제 캘리브레이션을 수행하고, 마커를 이용하여 Vertical/Horizontal Display의 위치를 추정하는 단계이다. 
 \begin{figure}[ht!]
